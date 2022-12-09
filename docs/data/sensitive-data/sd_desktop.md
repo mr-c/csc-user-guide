@@ -135,7 +135,7 @@ Security-related features of SD Desktop include:
 
 * you can save files in the shared folder, which is accessible to all project members;
 
-* you can save your files/results in the external volume. Volumes can be detached and attached to a new virtual Desktop. 
+* you can save your files/results in the external volume. Volumes can be detached and attached to a new virtual Desktop (see below). 
 
 You can close your connection to your Desktop in two ways:
 
@@ -188,6 +188,16 @@ Next:
 
 [![Desktop-rstudio](images/desktop/desktop-rstudio.png)](images/desktop/desktop-rstudio.png)
 
+
+## Detaching and attaching to a new Desktop  as a backup option
+
+External volumes can be detached from your virtual Desktop and attached to a new one. For this reason, it is a good practice to save your results on the external volume as a backup option in case the virtual Desktop becomes unresponsive. 
+
+To detach a volume:
+
+*
+*
+*
 
 
 
@@ -437,14 +447,26 @@ Press enter and add your password. Note: if you try to upload an unencrypted fil
 The exported file is now available in SD Connect/Allas. After downloading the file in your local environment, you can decrypt it with your secret encryption key, using the Crypt4GH application or programmatically. For specific guidance check the following [paragraph](./sd_connect.md#data-download-and-decryption).
 For more information and support, write to servicedesk@csc.fi (email subject Sensitive Data)
 
-## Deleting your virtual Desktop
+## Pausing, restarting or deleting your virtual Desktop
   
-At the end of your analysis, you can delete your virtual Desktop and all the files in it.
+At the end of your analysis, you can paur or delete your virtual Desktop and all the files in it.
 
-You can not undo this action:
+
+To pause the Desktop:
+
+* On SD Desktop homepage, click on **Go To SD Desktop Management**;
+
+* Here, under **Available Desktops** click on **Pause Desktop**. 
+
+You can restart the Desktop at any time form the same, access to it make take up to 30 minutes.
+
+
+
+To delete your Desktop and all the files/data in it: 
   
-* On SD Desktop Homepage, click on **Go To SD Desktop Management**. 
-* Here, under **Available Desktops** click on **Delete Desktop**. 
+* On SD Desktop homepage, click on **Go To SD Desktop Management**. 
+
+* Here, under **Available Desktops** click on **Delete Desktop**. You can not undo this action.
 
 
 !!! note
