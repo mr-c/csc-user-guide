@@ -40,7 +40,7 @@ To browse through the main topics of the user guide, you can use the navigation 
 
 * Only open-source software available. 
 
-* The standard SD Desktop service is unsuitable for data processing under the Secondary Use of Health and Social Data Act. Please check this specific user guide: [SD Desktop for secondary use](./sd-desktop-audited.md) to learn about the precise requirements to access datasets approved by the Findata authority.
+* The standard SD Desktop service is unsuitable for data processing under the Secondary Use of Health and Social Data Act. Please check this specific user guide: [SD Desktop for secondary use](./sd-desktop-audited.md) to access datasets approved and provided by the Findata authority.
 
 
 ### Authentication
