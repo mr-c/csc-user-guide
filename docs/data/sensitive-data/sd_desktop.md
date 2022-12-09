@@ -97,10 +97,10 @@ You can choose between **four different pre-built virtual Desktop options**:
 
 * **Medium computation**. Technical specifications:Core:8; memory 30 GiB; Root disk: 80 GB; Correspondent Pouta Flavour: standar.xxlarge; Billing Units: 10.4 units/h. This option is ideal for running complex statistical or genome analysis (for example: using the command line to run specific scripts). You can compare this Desktop to a powerful laptop provided by your IT unit.
 
-**Heavy computation**: Technical specifications: Core:32; memory 116 GiB; Root disk: 80 GB; Correspondent Pouta Flavour: hpc.5.32core; Billing Units: 52 units/h. This option is ideal for running non-interactive programmatic analysis (for example, machine learning) that requires heavy computation. Please do not choose this option for simple analysis, as it consumes many resources.
+* **Heavy computation**: Technical specifications: Core:32; memory 116 GiB; Root disk: 80 GB; Correspondent Pouta Flavour: hpc.5.32core; Billing Units: 52 units/h. This option is ideal for running non-interactive programmatic analysis (for example, machine learning) that requires heavy computation. Please do not choose this option for simple analysis, as it consumes many resources.
 
 !!! Note 
-    If you don't know the best virtual Desktop option for your needs, please contact us at servicedesk@csc.fi (email subject: Sensitive Data).
+    If you don't know the best option for your needs, please contact us at servicedesk@csc.fi (email subject: Sensitive Data).
 
 In the following paragraphs, we will discuss how to work with a virtual Desktop, which software is available and how it is possible to customise your workspace.
 
@@ -112,40 +112,40 @@ In the following paragraphs, we will discuss how to work with a virtual Desktop,
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/EhuAYNLS90g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+Once your private virtual computer (Desktop) is ready, each CSC project member can securely access it from their browser anytime.
 
-
-Once your private virtual computer (Desktop) is launched, each CSC project member can securely access it from their browser at any time.
-
-When you log in to SD Desktop **Homepage**,  you will be able to access your virtual Desktop in:
+When you log in to SD Desktop homepage,  you will be able to access your virtual Desktop in:
 
 * **Recent connections**, clicking on the image of your Desktop (visible only if you recently accessed it)
 
-* **All connections** if you click on + you can see all the connections associated with each project (e.g. project_NNNNN_NNNN). If you click on the connection ID you will also access your Desktop. 
+* **All connections** if you click on +, you can see all the connections associated with each project (e.g. project_NNNNN_NNNN). If you click on the connection ID you will also access your Desktop. 
 
 
-When you open the connection, a virtual computing environment (Linux Centos operating system) will open into your browser. When you access the virtual Desktop for the first time, you will see the getting started panel, from which you can, for example, adjust the screen resolution.
+A virtual computing environment (Linux Centos operating system) will open in your browser when you open the connection. When you access the virtual Desktop for the first time, you will see the getting started panel, from which you can, for example, adjust the screen resolution.
 
-You can work with this virtual Desktop like in a standard computing environment.  From the applications menu bar (top left corner) you can access several pre-installed programs. Examples include Open Office, image viewing applications, video and audio players, Jupiter Notebook etc. You can also open a terminal and use Linux from command line. To start using R-Studio please check the paragraph below.
+You can work with this virtual Desktop like in a standard computing environment. You can access several pre-installed programs from the applications menu bar (top left corner). Examples include Open Office, image viewing applications, video, and audio players, Jupiter Notebook etc. You can also open a terminal and use Linux from the command line. To start using R-Studio, please check the paragraph below.
 
+Security-related features of SD Desktop include:
 
-Security-related features SD Desktop include:
-
-* the computing environment (visible from your browser) is isolated from the internet. You can, for example, open a Firefox web browser, but you are not able to access any site on the internet. At this moment, you will also not be able to access any repositories directly.
+* The computing environment (visible from your browser) is isolated from the internet. You can, for example, open a Firefox web browser, but you cannot access any site on the internet. At this moment, you will also not be able to access any repositories directly;
 
 * you can access or import data only data stored in SD Connect using the Data Gateway application (see below for more information);
 
-* the copy-paste function from your computer/laptop to the browser visualizing your virtual Desktop is entirely disabled for security reasons. You can anyhow use this function inside your browser.
+* the copy-paste function from your computer/laptop to the browser visualizing your virtual Desktop is entirely disabled for security reasons. You can anyhow use this function inside your browser;
 
+* you can save files in the shared folder, which is accessible to all project members;
 
-You can close your connection to your virtual Desktop in two ways:
+* you can save your files/results in the external volume. Volumes can be detached and attached to a new virtual Desktop. 
 
-1.  _Log out_ from your Desktop (in the workspace view, top right corner of the browser, select your _username_ and _log out_). This will close all applications in your virtual Desktop and disconnect the work session. You will be able to access the virtual Desktop at any time after logging in to the services.
+You can close your connection to your Desktop in two ways:
 
-2. If you started a data analysis programmatically (you are running a script) you can close the browser window. This doesn't interfere with the processes running. Thus, when you reconnect to your Desktop, you have all your tools and interfaces still open and can continue working. However, remember to log out from the Desktop once the analysis is finished. If you leave more than ten connections open, you will be unable to re-access the services. 
+1. _Log out_ from your Desktop (in the workspace view, top right corner of the browser, select your _username_ and _log out_). This will close all applications on your virtual Desktop and disconnect the work session. You will be able to access the virtual Desktop at any time after logging in to the services.
+
+2. If you started a data analysis programmatically (running a script), you can close the browser window. This doesn't interfere with the processes running. Thus, when you reconnect to your Desktop, all your tools and interfaces are still open and can continue working. However, remember to log out from the Desktop once the analysis is finished. If you leave more than ten connections open, you will be unable to re-access the services. 
 
 
 !!! Note
-    **Never use the lock or reboot buttons** in SD Desktop as you will not be able to connect to the Desktop again after that.
+    **Never use the lock or reboot buttons** in SD Desktop, as you will not be able to connect to the Desktop again after that.
  
  
  [![Access-virtual-Desktop](images/desktop/desktop-access.png)](images/desktop/desktop-access.png)
