@@ -189,7 +189,7 @@ Next:
 [![Desktop-rstudio](images/desktop/desktop-rstudio.png)](images/desktop/desktop-rstudio.png)
 
 
-## Detaching and attaching to a new Desktop  as a backup option
+### Detaching and attaching external volumes to a new Desktop 
 
 External volumes can be detached from your virtual Desktop and attached to a new one. For this reason, it is a good practice to save your results on the external volume as a backup option in case the virtual Desktop becomes unresponsive. 
 
