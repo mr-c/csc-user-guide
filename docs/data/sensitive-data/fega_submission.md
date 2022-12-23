@@ -49,7 +49,7 @@ Here’s a list of the required documents:
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/uraDjCssBP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Once the legal agreements between the data controller and CSC are finalised, you can register on [the EGA webpage](https://web4.ega-archive.org/register/) to create central EGA credentials. You will receive an activation link via email after your registration has been approved by central EGA. 
+Once the legal agreements between the data controller and CSC are finalised, you can register on the [EGA webpage](https://web4.ega-archive.org/register/) to create central EGA credentials. You will receive an activation link via email after your registration has been approved by central EGA. 
 
 !!! note
     Central EGA credentials, including a username (usually this is your email address) and a password, are required for the encryption and data upload to Finnish FEGA, Data Access Committee and Policy registration in the DAC portal, and for metadata submission to the submitter portal.
@@ -193,11 +193,11 @@ After data release, each of these objects will be assigned with a permanent iden
 
 !!! note
     
-    - Data Access Committee (DAC) and Policy need to be created in the EGA DAC portal before they can be added to the metadata in the submitter portal. DAC is always associated with a Policy, and by selecting a Policy for a dataset in the metadata submitter portal, you also select the DAC linked to that specific Policy.
+    - **Data Access Committee (DAC)** and **Policy** need to be created in the EGA DAC portal before they can be added to the metadata in the submitter portal. DAC is always associated with a Policy, and by selecting a Policy for a dataset in the metadata submitter portal, you also select the DAC linked to that specific Policy.
     
-    - Study, Samples, and Experiment metadata can be registered before uploading files, while Run and Analysis objects cannot be registered before the files have been uploaded to Finnish FEGA. You can choose Policy for your submission only after you have registered all the other metadata, when you are registering a Dataset.
+    - **Study**, **Samples**, and **Experiment** metadata can be registered before uploading files, while **Run** and **Analysis** objects cannot be registered before the files have been uploaded to Finnish FEGA. You can choose **Policy** for your submission only after you have registered all the other metadata, when you are registering **Dataset** metadata.
     
-    - If you are performing array-based submission(s), the submitter portal should only be used to register the Study, Samples, and Dataset metadata objects. In contrast, the other metadata objects need to be registered using an excel template.
+    - If you are performing *array-based submission(s)*, the submitter portal should only be used to register the Study, Samples, and Dataset metadata objects. In contrast, the other metadata objects need to be registered using an excel template.
     
 ## Step 8: Data release
 To finalise your submission, write to servicedesk@csc.fi to confirm that the submission can be released and add the following information from the submitter portal:
