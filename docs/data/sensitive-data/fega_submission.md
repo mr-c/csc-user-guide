@@ -1,7 +1,7 @@
 # Data submission
 
 !!! Note 
-    FEGA is still in the pilot phase, so no submissions can be made to the service. The expected launch of the service is in the beginning of year 2023. We will process submissions in the order we have received the support requests. In addition to the legal agreements listed on this page, there needs to be a service agreement between CSC and the data controller specific for FEGA service. Make sure before starting submitting any data that all these legal agreements are in place. This user guide is still preliminary, and changes to the technical instructions are expected before the launch of the service.
+    FEGA is still in the pilot phase, so no submissions can be made to the service. The expected launch of the service is in the beginning of year 2023. We will process submissions in the order we have received the support requests. In addition to the legal agreements listed on this page, there needs to be a service agreement between CSC and the data controller specific for FEGA service. Make sure before starting submitting any data that all these legal agreements are in place.
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/eg9YRFgT_5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -49,11 +49,11 @@ Here’s a list of the required documents:
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/uraDjCssBP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Once the legal agreements between the data controller and CSC are finalised, you can request the central EGA credentials by sending an email to the central EGA helpdesk at helpdesk@ega-archive.org. You will receive the credentials via email. 
+Once the legal agreements between the data controller and CSC are finalised, you can register on [the EGA webpage](https://web4.ega-archive.org/register/) to create central EGA credentials. You will receive an activation link via email after your registration has been approved by central EGA. 
 
 !!! note
-    Central EGA credentials, including a username (format: ega-box-NNN) and a password, are required for the encryption and data upload to Finnish FEGA and for the metadata submission to the submitter portal of central EGA.
-    
+    Central EGA credentials, including a username (usually this is your email address) and a password, are required for the encryption and data upload to Finnish FEGA, Data Access Committee and Policy registration in the DAC portal, and for metadata submission to the submitter portal.
+
 ## Step 4: Data formats
 Before uploading the data to FEGA, you must prepare the datasets and verify the data formats. Some examples of the accepted formats are listed below.
 
@@ -95,7 +95,7 @@ or
 
 ### Fi-FEGA upload application
 
-1. You can download the Fi-FEGA upload application specific to your operating system from the GitHub repository: Linux, Mac or Windows. After downloading and unzipping the file, you can find the application in your download folder. When you open the application, you might encounter an error message. In this case, click on *More info* and verify that the publisher is CSC-IT Center for Science (or in Finnish: CSC-Tieteen tietotekniikan keskus Oy) and click on *Run anyway*. 
+1. You can download the Fi-FEGA upload application specific to your operating system from the [GitHub repository](https://github.com/CSCfi/sda-uploader): Linux, Mac or Windows. After downloading and unzipping the file, you can find the application in your download folder. When you open the application, you might encounter an error message. In this case, click on *More info* and verify that the publisher is CSC-IT Center for Science (or in Finnish: CSC-Tieteen tietotekniikan keskus Oy) and click on *Run anyway*. 
 
 2. Next, download the Finnish FEGA public encryption key. 
 
@@ -103,7 +103,7 @@ or
 
 4. Click on *Select file to upload* or *Select directory to upload* to upload a single file or an entire folder. 
 
-5. Next, you need to fill in the SFTP (or secure connection) credentials, which correspond to your Central EGA account username. In SFTP Username, write your EGA username (ega-box-NNN). In SFTP Server, write the following: test.sd.csc.fi:9002. Loading an SFPT key is not required for data uploads to FEGA.
+5. Next, you need to fill in the SFTP (or secure connection) credentials, which correspond to your Central EGA account username. In SFTP Username, write your EGA username (usually this is your email address). In SFTP Server, write the following: admin.sd.csc.fi:50529. Loading an SFPT key is not required for data uploads to FEGA.
 
 6. Click on *Encrypt and upload files*. The tool will ask the SFTP Passphrase, which corresponds to your Central EGA account password. After clicking on OK, the application will start the data encryption and upload. 
 
@@ -133,55 +133,74 @@ Where the syntax *--recipient_pk* defines the public key used to encrypt the dat
 
 **Data upload with sfpt CLI (default in Linux and Mac OS)**:
 
-Open a terminal and transfer the encrypted files or directory with the following syntax, where ega_user is the EGA credentials username ega-box-8903:
+Open a terminal and transfer the encrypted files or directory with the following syntax, where ega_user is the EGA credentials username (usually this is your email address):
 
 ```
-sftp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -P 9002 <ega_user>@test.sd.csc.fi
+sftp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -P 50529 '<ega_user>'@admin.sd.csc.fi
 ```
 
 Please inform the Finnish FEGA helpdesk via email (servicedesk@csc.fi) when you have completed the data encryption and upload to Finnish FEGA. You will receive further instructions for the metadata submission.
 
-## Step 6: Metadata submission
+## Step 6: Data Access Committee and Policy registration
+
+Data Access Committees (DACs) and Policies are created in a separate EGA [DAC portal](https://dac.ega-archive.org/). In the portal, you can see your DACs and Policies and create new ones.
+
+First, make sure your organisation or your research group doesn’t already have a suitable DAC for your data. If not, you can create a new DAC. In the first phase, you can only give a name and a description for the DAC. Use for example the name of the organisation associated with the DAC, or information about the faculty or the research field. You can also use more specific, non-sensitive information about your research group, the study or the dataset if the DAC is created only for this particular data. The DAC is then approved by central EGA. After the approval, you can add DAC members. If necessary, create separate DACs for different datasets.
+
+When the new DAC is finalised, or if you use a ready-made DAC, you can create a new Policy. The Policy always needs to be associated with a DAC, which is linked to it while creating a new Policy. The Policy contains the Data Access Agreement (DAA).
+
+### Dataset application link
+After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk. The dataset application links must be added to each submission in EGA DAC portal. **In order to add the dataset application link to the submission, you must create a new Policy object for each dataset.** Create a policy and select the checkbox “The policy has an url.” under the Policy field. Write the dataset application link in the popping up “Policy URL” textbox.
+
+!!! note
+
+If someone wants to apply access to your dataset stored in Finnish FEGA, they must click the dataset application link on the EGA website. The link will direct the user to the application form in SD Apply. SD Apply is a service for applying access rights to sensitive datasets stored at CSC.
+
+## Step 7: Metadata submission
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/Xh3LpYPD9oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Next, you can describe all the information related to your study, i.e. metadata, using the central [EGA submitter portal](https://test.ega-archive.org/submitter-portal/) or [programmatically](https://ega-archive.org/submission/sequence/programmatic_submissions). The public metadata will be published on the EGA website to facilitate data discovery and re-use.
+Next, you can describe all the information related to your study, i.e. metadata, using the [Finnish FEGA submitter portal](https://submission.finland.ega-archive.org/) or [programmatically](https://ega-archive.org/submission/sequence/programmatic_submissions). The public metadata will be published on the EGA website to facilitate data discovery and re-use.
 
-Log in to the submitter portal using the EGA credentials (username: ega-box-NNN and password). Specific guidance on EGA submitter portal can be found on EGA website: [user guide and video tutorials](https://ega-archive.org/submission/tools/submitter-portal).
+Log in to the submitter portal using the EGA credentials (username: usually your email address, and password).
 
 Using the submitter portal, you can register the following metadata objects:
 
 - **Study**. Information about the sequencing study.
 
+[![Study](images/fega/submitter_study.png)](images/fega/submitter_study.png)
+
 - **Samples**. Information about the sequencing samples.
+
+[![Samples](images/fega/submitter_samples.png)](images/fega/submitter_samples.png)
 
 - **Experiments**. Information about the sequencing methods, protocols, and machines.
 
+[![Experiments](images/fega/submitter_experiments.png)](images/fega/submitter_experiments.png)
+
 - **Runs**. Samples, experiments, and files are linked through runs. Appropriate objects for FASTQ and BAM/CRAM submissions.
+
+[![Runs](images/fega/submitter_runs.png)](images/fega/submitter_runs.png)
 
 - **Analysis**. References the analysis (BAM) files. Associated with samples and study. Analysis should be only be used for BAM/BAI pair, VCF and phenotype linkage to samples. The analysis is an EGA specific metadata object that links Samples, to Files.
 
-- **DAC**. Contains information about the Data Access Committee (DAC).
+[![Analysis](images/fega/submitter_analysis.png)](images/fega/submitter_analysis.png)
 
-- **Policy**. Contains the Data Access Agreement (DAA). Associated with DAC.
+- **Dataset**. Contains the collection of runs/analysis data files to be subject to controlled access. Associated with Policy, which is created in the EGA DAC portal.
 
-- **Dataset**. Contains the collection of runs/analysis data files to be subject to controlled access. Associated with Policy.
+[![Dataset](images/fega/submitter_dataset.png)](images/fega/submitter_dataset.png)
 
 After data release, each of these objects will be assigned with a permanent identifier or unique accession number.
 
 !!! note
     
-    - Study, Samples, DAC, and Policy metadata can all be registered before uploading files, while run and analysis objects cannot be registered until at least 24 hours after the files have been uploaded to Finnish FEGA.
+    - Data Access Committee (DAC) and Policy need to be created in the EGA DAC portal before they can be added to the metadata in the submitter portal. DAC is always associated with a Policy, and by selecting a Policy for a dataset in the metadata submitter portal, you also select the DAC linked to that specific Policy.
     
-    - If you are performing array-based submission(s), the submitter portal should only be used to register the Study, Samples, Data Access Committee (DAC), and Policy metadata objects. In contrast, the other metadata objects need to be registered using an excel template.
-
-### Dataset application link
-After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk. The dataset application links must be added to each metadata submission in EGA submitter portal. In order to add the dataset application link to the submission, you must register a new Policy metadata object for each dataset. Create a policy and select the checkbox “The policy has an url.” under the Policy field. Write the dataset application link in the popping up “Policy URL” textbox.
-
-!!! note
-    If someone wants to apply access to your dataset stored in Finnish FEGA, they must click the dataset application link on the EGA website. The link will direct the user to the application form in SD Apply. SD Apply is a service for applying access rights to sensitive datasets stored at CSC.
+    - Study, Samples, and Experiment metadata can be registered before uploading files, while Run and Analysis objects cannot be registered before the files have been uploaded to Finnish FEGA. You can choose Policy for your submission only after you have registered all the other metadata, when you are registering a Dataset.
     
-## Step 7: Data release
+    - If you are performing array-based submission(s), the submitter portal should only be used to register the Study, Samples, and Dataset metadata objects. In contrast, the other metadata objects need to be registered using an excel template.
+    
+## Step 8: Data release
 To finalise your submission, write to servicedesk@csc.fi to confirm that the submission can be released and add the following information from the submitter portal:
 
 - Name of the submission (as on the submitter portal)
@@ -192,4 +211,4 @@ To finalise your submission, write to servicedesk@csc.fi to confirm that the sub
 
 - Appropriate Data Use Ontology codes (DUO). You can find more information in Data Use Conditions on EGA webpage. 
 
-CSC helpdesk and central EGA helpdesk will work together to complete the release process. You will receive confirmation of successful submission and accessions suitable for publication, grants, etc. from the CSC helpdesk.
+CSC helpdesk will complete the release process. You will receive confirmation of successful submission and accessions suitable for publication, grants, etc. from the CSC helpdesk.
