@@ -153,8 +153,7 @@ When the new DAC is finalised, or if you use a ready-made DAC, you can create a 
 After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk. The dataset application links must be added to each submission in EGA DAC portal. **In order to add the dataset application link to the submission, you must create a new Policy object for each dataset.** Create a policy and select the checkbox “The policy has an url.” under the Policy field. Write the dataset application link in the popping up “Policy URL” textbox.
 
 !!! note
-
-If someone wants to apply access to your dataset stored in Finnish FEGA, they must click the dataset application link on the EGA website. The link will direct the user to the application form in SD Apply. SD Apply is a service for applying access rights to sensitive datasets stored at CSC.
+    If someone wants to apply access to your dataset stored in Finnish FEGA, they must click the dataset application link on the EGA website. The link will direct the user to the application form in SD Apply. SD Apply is a service for applying access rights to sensitive datasets stored at CSC.
 
 ## Step 7: Metadata submission
 
