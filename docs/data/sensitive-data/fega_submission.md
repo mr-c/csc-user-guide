@@ -143,11 +143,11 @@ Please inform the Finnish FEGA helpdesk via email (servicedesk@csc.fi) when you 
 
 ## Step 6: Data Access Committee and Policy registration
 
-Data Access Committees (DACs) and Policies are created in a separate EGA [DAC portal](https://dac.ega-archive.org/). In the portal, you can see your DACs and Policies and create new ones.
+Data Access Committee (DAC) and Policy are created in a separate EGA [DAC portal](https://dac.ega-archive.org/). In the portal, you can see your DACs and Policies and create new ones.
 
-First, make sure your organisation or your research group doesn’t already have a suitable DAC for your data. If not, you can create a new DAC. In the first phase, you can only give a name and a description for the DAC. Use for example the name of the organisation associated with the DAC, or information about the faculty or the research field. You can also use more specific, non-sensitive information about your research group, the study or the dataset if the DAC is created only for this particular data. The DAC is then approved by central EGA. After the approval, you can add DAC members. If necessary, create separate DACs for different datasets.
+First, make sure your organisation or your research group doesn’t already have a suitable DAC for your data. If not, you can create a new DAC. In the first phase, you can only give a name and description for the DAC. Use for example the name of the organisation associated with the DAC, or information about the faculty or the research field. You can also use more specific, non-sensitive information about your research group, the study or the dataset if the DAC is created only for this particular data. The DAC is then approved by central EGA. After the approval, you can add DAC members. If necessary, create separate DACs for different datasets.
 
-When the new DAC is finalised, or if you use a ready-made DAC, you can create a new Policy. The Policy always needs to be associated with a DAC, which is linked to it while creating a new Policy. The Policy contains the Data Access Agreement (DAA).
+When the DAC is finalised, or if you use a ready-made DAC, you can create a Policy. The Policy always needs to be associated with a DAC. The DAC is linked to the Policy while creating a new Policy. The Policy also contains the Data Access Agreement (DAA) and dataset application link.
 
 ### Dataset application link
 After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk. The dataset application links must be added to each submission in EGA DAC portal. **In order to add the dataset application link to the submission, you must create a new Policy object for each dataset.** Create a policy and select the checkbox “The policy has an url.” under the Policy field. Write the dataset application link in the popping up “Policy URL” textbox.
