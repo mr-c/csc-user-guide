@@ -159,7 +159,7 @@ After uploading the data to Finnish FEGA, you will receive a dataset application
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/Xh3LpYPD9oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Next, you can describe all the information related to your study, i.e. metadata, using the [Finnish FEGA submitter portal](https://submission.finland.ega-archive.org/) or [programmatically](https://ega-archive.org/submission/sequence/programmatic_submissions). The public metadata will be published on the EGA website to facilitate data discovery and re-use.
+Next, you can describe all the information related to your study, i.e. metadata, using the [Finnish FEGA submitter portal](https://submission.finland.ega-archive.org/) or programmatically. The public metadata will be published on the EGA website to facilitate data discovery and re-use.
 
 Log in to the submitter portal using the EGA credentials (username: usually your email address, and password).
 
