@@ -133,10 +133,10 @@ Where the syntax *--recipient_pk* defines the public key used to encrypt the dat
 
 **Data upload with sfpt CLI (default in Linux and Mac OS)**:
 
-Open a terminal and transfer the encrypted files or directory with the following syntax, where ega_user is the EGA credentials username (usually this is your email address):
+Open a terminal and transfer the encrypted files or directory with the following syntax, where <ega_user> is the EGA credentials username (usually this is your email address):
 
 ```
-sftp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -P 50529 '<ega_user>'@admin.sd.csc.fi
+sftp -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -P 50529 <ega_user>@admin.sd.csc.fi
 ```
 
 Please inform the Finnish FEGA helpdesk via email (servicedesk@csc.fi) when you have completed the data encryption and upload to Finnish FEGA. You will receive further instructions for the metadata submission.
