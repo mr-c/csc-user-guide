@@ -148,11 +148,12 @@ Data Access Committee (DAC) and Policy are created by CSC service desk separatel
 To register DAC and Policy for your dataset, contact servicedesk@csc.fi. For registration, you will need
 
 1. names and email addresses of all the Data Access Committee members;
-2. Data Access Agreement; and
-3. other necessary information defining the conditions of data reuse, e.g. DUO codes.
+2. Data Access Agreement;
+3. other necessary information defining the conditions of data reuse, e.g. DUO codes; and
+4. data application link for each dataset (provided by CSC helpdesk).
 
 ### Dataset application link
-After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk. The dataset application links must be added to each submission.
+After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk.
 
 !!! note
     If someone wants to apply access to your dataset stored in Finnish FEGA, they must click the dataset application link on the EGA website. The link will direct the user to the application form in SD Apply. SD Apply is a service for applying access rights to sensitive datasets stored at CSC.
