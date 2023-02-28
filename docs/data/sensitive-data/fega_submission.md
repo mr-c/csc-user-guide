@@ -49,7 +49,7 @@ Here’s a list of the required documents:
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/uraDjCssBP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Once the legal agreements between the data controller and CSC are finalised, you can register on the [EGA webpage](https://web4.ega-archive.org/register/) to create central EGA credentials. You will receive an activation link via email after your registration has been approved by central EGA. 
+Once the legal agreements between the data controller and CSC are finalised, you can register on the [EGA webpage](https://web4.ega-archive.org/register/) to create central EGA credentials. You will receive an activation link via email after your registration has been approved by central EGA. After activating your credentials, contact servicedesk@csc.fi in order to be added as a Finnish FEGA submitter.
 
 !!! note
     Central EGA credentials, including a username (usually this is your email address) and a password, are required for the encryption and data upload to Finnish FEGA, Data Access Committee and Policy registration in the DAC portal, and for metadata submission to the submitter portal.
