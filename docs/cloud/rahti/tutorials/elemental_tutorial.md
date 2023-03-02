@@ -300,7 +300,7 @@ spec:
 
 The ReplicationControllers are functionally close to ReplicaSets, discussed
 in the chapter "[Kubernetes and OpenShift
-concepts](/cloud/rahti/introduction/background#kubernetes-and-openshift-concepts)".
+concepts](/cloud/rahti/concepts/)".
 A ReplicationController can be transformed into a ReplicaSet by
 changing `spec.selector` to `spec.selector.matchLabels` and setting
 `kind: ReplicaSet`. The motivation to understand the ReplicationController
