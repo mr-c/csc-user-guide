@@ -12,21 +12,21 @@ To navigate the user guide, click on the topics on the left-hand side of the pag
  ## . Sensitive research data  
 
 
-###[Introduction](./intro.md)
+### [Introduction](./intro.md)
   * [Introduction to the user guide](./intro.md#introduction-to-the-user-guide)
   * [Introduction to the services](./intro.md#introduction-to-the-services)
   * [Legal agreements](./intro.md#legal-agreements)
   * [Useful terminology](./intro.md#useful-terminology)
 
 
-###[Accessing SD Services](./sd-access.md)
+### [Accessing SD Services](./sd-access.md)
 
 * [For research data processing](./sd-access.md#processing-sensitive-research-data)
 * [For register data processing under the Act on Secondary use](./sd-access.md#processing-register-data-under-the-act-on-secondary-use)
 * [Default storage space and billing units consumption](./sd-access.md#default-storage-space-and-billing-units-consumption)
 
   
-###[Store and share with SD Connect](./sd_connect.md)
+### [Store and share with SD Connect](./sd_connect.md)
    
    * [Overview](./sd_connect.md#overview)
 
@@ -62,7 +62,7 @@ To navigate the user guide, click on the topics on the left-hand side of the pag
 
   
 
-###[Analyse and compute with SD Desktop](./sd_desktop.md)
+### [Analyse and compute with SD Desktop](./sd_desktop.md)
 
   * [Overview](./sd_desktop.md#overview) 
 
