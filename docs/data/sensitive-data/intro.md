@@ -32,18 +32,59 @@ Sensitive data includes:
 
 * Data that is otherwise deemed sensitive.
 
-The General Data Protection Regulation (GDPR) and Finnish national laws regulate sensitive personal data processing. According to the GDPR, a data controller is an individual or organization that determines the purposes and means of processing sensitive personal data, and it is usually an academic organization. On the other hand, a data processor is an individual or organization that processes personal data on the controller's behalf, for example, an IT service provider, in this case, CSC. Data processing terms such as duration, scope, purpose, and the relationship between the data controller and CSC are defined in a legally binding document called Data Protection Agreement (DPA). Moreover, the GDPR requires data controllers to carry out a Data Protection Impact Assessment (DPIA) for operations that are 'likely to result in a high risk to the rights and freedoms of natural persons.' 
-
-When creating a CSC project using the MyCSC portal, you are guided to the **"Description of processing activities" form**. This form will support you in identifying the data controller, the type of sensitive data you handle in your research project, and what kind of security measures you are adopting. Moreover, you will be guided to view CSC's General Terms of Use and Data Processing Agreement. As you are employed by the academic organization, which usually acts as the data controller, you act as its representative during this process. When you accept the DPA, it becomes valid also between the academic organization and CSC (data processor). You can download these documents and share them with the legal services in your organisation or the data controller's representative for support. When researchers affiliated with an academic organization in a non-EU/EEA country, want to access sensitive data stored in Finland (e.g., via data streaming through their web browser), additional agreements are required. **Accessing sensitive data from a non-EU/EEA country** is qualified by the GDPR as a data transfer from one data controller (Finnish academic organization) to another. In this case, the data controller needs to make an agreement for international data transfers (EU's standard contractual clauses) and make a transfer impact assessment to evaluate that the state where the collaborator operates provides an adequate level of data protection and that safeguards are in place and that there is a lawful base for international transfer (e.g.data subjects have given explicit consents). Also, please contact your organization's legal services for advice and support.
-
-In this table, you can find the contact information and support material provided by of several Finnish academic organizations: 
-
-The Finnish Act on Secondary Use of Health and Social Data applies when health and social information is collected and saved in a register for example, during examination in health care services or while applying for social benefits, and then the original data is used for a different purpose, for example, research. Register-based research is possible only in a certified computing environment in compliance with the Finnish Act on the Secondary Use and the Findata Authority's Regulation. In this case,  access to the SD services is subject to several restrictions, and guidance is provided in a separate manual: SD Desktop for secondary use.
 
 
 !!! Note
     Sensitive data is only accessible with appropriate authorization, rights, or permission. With SD services, access is always managed by the data controller via specific service components in compliance with the GDPR and national regulations. The following section of this user guide provides an overview of permission management via SD services, below is a summary of the main documentation that should be considered. 
     
+
+The General Data Protection Regulation (GDPR) and Finnish national laws regulate sensitive personal data processing. According to the GDPR, a data controller is an individual or organization that determines the purposes and means of processing sensitive personal data, and it is usually an academic organization. On the other hand, a data processor is an individual or organization that processes personal data on the controller's behalf, for example, an IT service provider, in this case, CSC. Data processing terms such as duration, scope, purpose, and the relationship between the data controller and CSC are defined in a legally binding document called Data Protection Agreement (DPA). Moreover, the GDPR requires data controllers to carry out a Data Protection Impact Assessment (DPIA) for operations that are 'likely to result in a high risk to the rights and freedoms of natural persons.' 
+
+When creating a CSC project using the MyCSC portal, you are guided to the **"Description of processing activities" form**. This form will support you in identifying the data controller, the type of sensitive data you handle in your research project, and what kind of security measures you are adopting. Moreover, you will be guided to view CSC's General Terms of Use and Data Processing Agreement. As you are employed by the academic organization, which usually acts as the data controller, you act as its representative during this process. When you accept the DPA, it becomes valid also between the academic organization and CSC (data processor). You can download these documents and share them with the legal services in your organisation or the data controller's representative for support. When researchers affiliated with an academic organization in a non-EU/EEA country, want to access sensitive data stored in Finland (e.g., via data streaming through their web browser), additional agreements are required. **Accessing sensitive data from a non-EU/EEA country** is qualified by the GDPR as a data transfer from one data controller (Finnish academic organization) to another. In this case, the data controller needs to make an agreement for international data transfers (EU's standard contractual clauses) and make a transfer impact assessment to evaluate that the state where the collaborator operates provides an adequate level of data protection and that safeguards are in place and that there is a lawful base for international transfer (e.g.data subjects have given explicit consents). Also, please contact your organization's legal services for advice and support.
+
+
+The Finnish Act on Secondary Use of Health and Social Data applies when health and social information is collected and saved in a register for example, during examination in health care services or while applying for social benefits, and then the original data is used for a different purpose, for example, research. Register-based research is possible only in a certified computing environment in compliance with the Finnish Act on the Secondary Use and the Findata Authority's Regulation. In this case,  access to the SD services is subject to several restrictions, and guidance is provided in a separate manual: SD Desktop for secondary use.
+
+
+In this table, you can find the contact information and support material provided by of several Finnish academic organizations: 
+    
+    
+    
+    | Organisation                         | Contact | Material                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ------------------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Aalto University                     |         | [How to handle persona data]([https://www.aalto.fi/en/services/how-to-handle-personal-data-in-research](https://www.aalto.fi/en/services/how-to-handle-personal-data-in-research))
+
+<br><br>
+
+[Secure processing of personal data]([https://www.aalto.fi/en/services/general-instructions-for-secure-processing-of-personal-data](https://www.aalto.fi/en/services/general-instructions-for-secure-processing-of-personal-data))
+
+<br><br>
+
+[Registry-based research](https://www.aalto.fi/en/services/secure-operating-environment-for-health-and-social-data)                      |
+| <br><br><br>
+
+Helsinki University    |         | [Research data management](https://www.helsinki.fi/en/research/services-researchers/data-support/research-data-management)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| University of Eastern Finland 
+
+<br> |         | [Research data management][https://www.uef.fi/en/datasupport/data-management-planning-and-beginning-of-research](https://www.uef.fi/en/datasupport/data-management-planning-and-beginning-of-research)
+
+<br>
+
+[Data Protection for students]([https://kamu.uef.fi/en/tietopankki/students-rights-and-obligations/data-protection-guide-for-students/](https://kamu.uef.fi/en/tietopankki/students-rights-and-obligations/data-protection-guide-for-students/))
+
+<br>
+
+[Act on Seconday Use] (https://www.uef.fi/en/library/act-on-the-secondary-use-of-health-and-social-data)
+
+<br> |
+| Tampere University                   |         | [Data protection in research](
+
+https://www.tuni.fi/en/research/responsible-research/data-protection)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Turku University
+
+<br>               |         | [Sensitive Personal Data](https://utuguides.fi/c.php?g=671022&p=4801982)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+|                                      |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+|                                      |         |                  
 
 
 For further information, see also on CSC's website:
