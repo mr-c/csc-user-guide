@@ -9,14 +9,15 @@ To navigate the user guide, click on the topics on the left-hand side of the pag
     **Do you have any questions? Would you like to discuss a specific project?** Don't hesitate to contact us at servicedesk@csc.fi (subject: Sensitive Data) or join the [CSC Research User Support Coffee - Every Wednesday at 14:00](https://ssl.eventilla.com/usersupportcoffee). Our team is here to help.
     
     
- ## 1.Sensitive research data  
-
-
+ 
 ### [Introduction](./intro.md)
   * [Introduction to the user guide](./intro.md#introduction-to-the-user-guide)
   * [Introduction to the services](./intro.md#introduction-to-the-services)
   * [Legal agreements](./intro.md#legal-agreements)
   * [Useful terminology](./intro.md#useful-terminology)
+ 
+ 
+## 1. Sensitive research data  
 
 
 ### [Accessing SD Services](./sd-access.md)
