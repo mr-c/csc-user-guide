@@ -7,6 +7,8 @@
 Sensitive Data (SD) Connect allows you to store sensitive research data in the CSC's cloud storage solution Allas. With this user interface, you can easily encrypt and upload files from your web browser. As a result, SD Connect can serve as a workspace for collaborative research projects, facilitating data collection and sharing.  In addition, encrypted files stored in SD Connect are directly available for analysis, annotiation or editing via the SD Desktop service. 
 
 
+[![SDConnect-overview](images/connect/connect_overviewnew.png)](images/connect/connect_overviewnew.png)
+
 
 You can browse through the main topics of the manual using the navigation bar on the left side of this page or the search function.
 
