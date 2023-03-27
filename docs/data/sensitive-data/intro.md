@@ -48,43 +48,16 @@ The Finnish Act on Secondary Use of Health and Social Data applies when health a
 
 In this table, you can find the contact information and support material provided by of several Finnish academic organizations: 
     
+    | Organisation                   | Contact | Material                                                                                                                                                                                                                                                                                                                                                        |
+|--------------------------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Aalto University               |         | [How to handle persona data](https://www.aalto.fi/en/services/how-to-handle-personal-data-in-research)  [Secure processing of personal data](https://www.aalto.fi/en/services/general-instructions-for-secure-processing-of-personal-data)  [Registry-based research](https://www.aalto.fi/en/services/secure-operating-environment-for-health-and-social-data) |
+|    Helsinki University         |         | [Research data management](https://www.helsinki.fi/en/research/services-researchers/data-support/research-data-management)                                                                                                                                                                                                                                      |
+| University of Eastern Finland  |         | [Research data management]https://www.uef.fi/en/datasupport/data-management-planning-and-beginning-of-research [Data Protection for students](https://kamu.uef.fi/en/tietopankki/students-rights-and-obligations/data-protection-guide-for-students/) [Act on Seconday Use] (https://www.uef.fi/en/library/act-on-the-secondary-use-of-health-and-social-data)  |
+| Tampere University             |         | [Data protection in research]( https://www.tuni.fi/en/research/responsible-research/data-protection)                                                                                                                                                                                                                                                            |
+|  Turku University              |         | [Sensitive Personal Data](https://utuguides.fi/c.php?g=671022&p=4801982)                                                                                                                                                                                                                                                                                        |
+|                                |         |                                                                                                                                                                                                                                                                                                                                                                 |
+|                                |         |                                                                                                                                                                                                                                                                                                                                                                 |
     
-    
-    | Organisation                         | Contact | Material                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| ------------------------------------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Aalto University                     |         | [How to handle persona data]([https://www.aalto.fi/en/services/how-to-handle-personal-data-in-research](https://www.aalto.fi/en/services/how-to-handle-personal-data-in-research))
-
-<br><br>
-
-[Secure processing of personal data]([https://www.aalto.fi/en/services/general-instructions-for-secure-processing-of-personal-data](https://www.aalto.fi/en/services/general-instructions-for-secure-processing-of-personal-data))
-
-<br><br>
-
-[Registry-based research](https://www.aalto.fi/en/services/secure-operating-environment-for-health-and-social-data)                      |
-| <br><br><br>
-
-Helsinki University    |         | [Research data management](https://www.helsinki.fi/en/research/services-researchers/data-support/research-data-management)                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| University of Eastern Finland 
-
-<br> |         | [Research data management][https://www.uef.fi/en/datasupport/data-management-planning-and-beginning-of-research](https://www.uef.fi/en/datasupport/data-management-planning-and-beginning-of-research)
-
-<br>
-
-[Data Protection for students]([https://kamu.uef.fi/en/tietopankki/students-rights-and-obligations/data-protection-guide-for-students/](https://kamu.uef.fi/en/tietopankki/students-rights-and-obligations/data-protection-guide-for-students/))
-
-<br>
-
-[Act on Seconday Use] (https://www.uef.fi/en/library/act-on-the-secondary-use-of-health-and-social-data)
-
-<br> |
-| Tampere University                   |         | [Data protection in research](
-
-https://www.tuni.fi/en/research/responsible-research/data-protection)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| Turku University
-
-<br>               |         | [Sensitive Personal Data](https://utuguides.fi/c.php?g=671022&p=4801982)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-|                                      |         |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-|                                      |         |                  
 
 
 For further information, see also on CSC's website:
