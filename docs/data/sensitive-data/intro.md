@@ -17,14 +17,16 @@ Sensitive Data services for research consist of five components:
 * Sensitive Data Apply (*pilot phase*): promotes data reuse allowing data owners to manage access to published datasets via a simple user interface.
 
 
-In this manual is organized into two sections for:
+This manual is organized into two sections for:
+
 * sensitive reaserch data processing 
+
 * register based research (in compliance with the Finnish Act on the Secondary Use of Health and Social data and the Findata Authority's Regulation). 
 
 You can find an overview of each service's key features and limitations, step-by-step instructions and video tutorials (specific sections are marked as *advanced* if technical expertise is required), and quick solutions in the troubleshooting table. In addition, guidance for accessing the services and permission management is provided based on the data type and the legal bases for data processing. 
 
 !!! Note
-    Sensitive data is only accessible with appropriate authorization, rights, or permission and based on the legal bases for data processing. With SD services, access is always managed by the data controller via specific service components in compliance with the GDPR and national regulations. The following paragraph summarises of the main documentation that should be considered and how this is taken into consideration when createing a CSC account and a CSC project using hte my.csc.fi portal. 
+    Sensitive data is only accessible with appropriate authorization, rights, or permission and based on the legal bases for data processing. With SD services, access is always managed by the data controller via specific service components in compliance with the GDPR and national regulations. The following paragraph summarises of the main documentation that should be considered and how this is taken into consideration when createing a CSC account and a CSC project using the my.csc.fi portal. 
     
 
 
@@ -43,12 +45,7 @@ Sensitive data includes:
 * Data that is otherwise deemed sensitive.
 
 
-
-!!! Note
-    Sensitive data is only accessible with appropriate authorization, rights, or permission. With SD services, access is always managed by the data controller via specific service components in compliance with the GDPR and national regulations. The following section of this user guide provides an overview of permission management via SD services, below is a summary of the main documentation that should be considered. 
-    
-
-The General Data Protection Regulation (GDPR) and Finnish national laws regulate sensitive personal data processing. According to the GDPR, a data controller is an individual or organization that determines the purposes and means of processing sensitive personal data, and it is usually an academic organization. On the other hand, a data processor is an individual or organization that processes personal data on the controller's behalf, for example, an IT service provider, in this case, CSC. Data processing terms such as duration, scope, purpose, and the relationship between the data controller and CSC are defined in a legally binding document called Data Protection Agreement (DPA). Moreover, the GDPR requires data controllers to carry out a Data Protection Impact Assessment (DPIA) for operations that are 'likely to result in a high risk to the rights and freedoms of natural persons.' 
+The General Data Protection Regulation (GDPR) and Finnish national laws regulate sensitive personal data processing. According to the GDPR, a data controller is an individual or organization that determines the purposes and means of processing sensitive personal data, and it is usually an academic organization. On the other hand, a data processor is an individual or organization that processes personal data on the controller's behalf, for example, an IT service provider, in this case, CSC. Data processing terms such as duration, scope, purpose, and the relationship between the data controller and CSC are defined in a legally binding document called Data Protection Agreement (DPA). Moreover, the GDPR requires data controllers to carry out a Data Protection Impact Assessment (DPIA) for operations that are 'likely to result in a high risk to the rights and freedoms of natural persons'.
 
 When creating a CSC project using the MyCSC portal, you are guided to the **"Description of processing activities" form**. This form will support you in identifying the data controller, the type of sensitive data you handle in your research project, and what kind of security measures you are adopting. Moreover, you will be guided to view CSC's General Terms of Use and Data Processing Agreement. As you are employed by the academic organization, which usually acts as the data controller, you act as its representative during this process. When you accept the DPA, it becomes valid also between the academic organization and CSC (data processor). You can download these documents and share them with the legal services in your organisation or the data controller's representative for support. When researchers affiliated with an academic organization in a non-EU/EEA country, want to access sensitive data stored in Finland (e.g., via data streaming through their web browser), additional agreements are required. **Accessing sensitive data from a non-EU/EEA country** is qualified by the GDPR as a data transfer from one data controller (Finnish academic organization) to another. In this case, the data controller needs to make an agreement for international data transfers (EU's standard contractual clauses) and make a transfer impact assessment to evaluate that the state where the collaborator operates provides an adequate level of data protection and that safeguards are in place and that there is a lawful base for international transfer (e.g.data subjects have given explicit consents). Also, please contact your organization's legal services for advice and support.
 
