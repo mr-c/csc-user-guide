@@ -22,28 +22,26 @@ Overview of SD services, with a quick introduction to compliance with data prote
 ## 1. Sensitive research data  
 
 
-### [Accessing SD Services](./sd-access.md)
+1.1 [Accessing SD Services](./sd-access.md)
 Using the my.csc.fi portal set up a user account and complete the following steps to access the services. 
 
   
-### [Store and share with SD Connect](./sd_connect.md)
+1.2 [Store and share with SD Connect](./sd_connect.md)
 Access SD Connect to store encrypted sensitive research data in the CSC's cloud storage solution or share it with your collaborators. Encrypted data upload is possible via web-browser or programmatically.
    
- 
-
-### [Analyse and compute with SD Desktop](./sd_desktop.md)
+1.3 [Analyse and compute with SD Desktop](./sd_desktop.md)
 
 Set up your virtual Desktop to analyse sensitive data securely from your web-browser. 
 
 
 ## 2. Register based research
 
-### **Accessing register data via SD services**
+2.1 **Accessing register data via SD services**
 
-### [Accessing register data for data controllers /registers](./single-register-submission.md)
+2.2  [Accessing register data for data controllers /registers](./single-register-submission.md)
 How to submit secondary use data for research use in SD services.
 
-### [SD Desktop for secondary use of health and social data](./sd-desktop-audited.md)
+2.3  [SD Desktop for secondary use of health and social data](./sd-desktop-audited.md)
 
 Access to this service requires a Findata permit.
 
