@@ -1,26 +1,32 @@
 # Sensitive Data (SD) Services for research: user guide
 
-This guide, in CSC Docs, introduces CSC's Sensitive Data (SD) services. To navigate the CSC user guide, click on the topics on the left-hand side of the navigation bar or use the search functionality. Below you can find an overview of the contents related to Sensitive Data Services.
+This manual, in CSC Docs, introduces CSC's Sensitive Data (SD) services. Below is an overview of the contents organized into distinct sections for 1)
+processing sensitive research data (SD Connect and SD Desktop, standard service) or 2) register data (SD Desktop for secondary use, limited version). If you access SD services for the first time please refer to the introduction fo rmore information. 
+To navigate the user guide, click on the topics on the left-hand side of the page in the navigation bar, or use the search functionality. Next, browse the  section using the navigation bar on the right side of each page.
+
 
 !!! Note
     **Do you have any questions? Would you like to discuss a specific project?** Don't hesitate to contact us at servicedesk@csc.fi (subject: Sensitive Data) or join the [CSC Research User Support Coffee - Every Wednesday at 14:00](https://ssl.eventilla.com/usersupportcoffee). Our team is here to help.
+    
+    
+ ## . Sensitive research data  
 
 
-## [Introduction](./intro.md)
+###[Introduction](./intro.md)
   * [Introduction to the user guide](./intro.md#introduction-to-the-user-guide)
   * [Introduction to the services](./intro.md#introduction-to-the-services)
   * [Legal agreements](./intro.md#legal-agreements)
   * [Useful terminology](./intro.md#useful-terminology)
 
 
-## [Accessing SD Services](./sd-access.md)
+###[Accessing SD Services](./sd-access.md)
 
 * [For research data processing](./sd-access.md#processing-sensitive-research-data)
 * [For register data processing under the Act on Secondary use](./sd-access.md#processing-register-data-under-the-act-on-secondary-use)
 * [Default storage space and billing units consumption](./sd-access.md#default-storage-space-and-billing-units-consumption)
 
   
-## [Store and share with SD Connect](./sd_connect.md)
+###[Store and share with SD Connect](./sd_connect.md)
    
    * [Overview](./sd_connect.md#overview)
 
@@ -56,7 +62,7 @@ This guide, in CSC Docs, introduces CSC's Sensitive Data (SD) services. To navig
 
   
 
-## [Analyse and compute with SD Desktop](./sd_desktop.md)
+###[Analyse and compute with SD Desktop](./sd_desktop.md)
 
   * [Overview](./sd_desktop.md#overview) 
 
@@ -79,9 +85,15 @@ This guide, in CSC Docs, introduces CSC's Sensitive Data (SD) services. To navig
   * [Managing volumes and desktops](./sd_desktop.md#managing-volumes-and-virtual-desktops)
   
   * [Troubleshooting](./sd_desktop.md#troubleshooting)
+
+
+
+2. ## Register data unde the Act on Seconday Use
+
+
   
   
-## [SD Desktop for secondary use of health and social data](./sd-desktop-audited.md)
+### SD Desktop for secondary use of health and social data](./sd-desktop-audited.md)
 Access to this service requires a Findata permit. There are also [instructions](./single-register-submission.md) for single registers to submit secondary use data for research use in SD services.
   
   * [Key features](./sd-desktop-audited.md#key-features)
@@ -111,7 +123,7 @@ Access to this service requires a Findata permit. There are also [instructions](
   * [Troubleshooting](./sd-desktop-audited.md#troubleshooting)
   
 
-## **Services in the pilot phase:**
+## *Services in the pilot phase:**
 
   
 ### [Publish biomedical data with the Finnish Federated EGA](./federatedega.md)
