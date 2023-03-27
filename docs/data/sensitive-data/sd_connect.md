@@ -10,7 +10,7 @@ Sensitive Data (SD) Connect allows you to store sensitive research data in the C
 [![SDConnect-overview](images/connect/connect_overviewnew.png)](images/connect/connect_overviewnew.png)
 
 
-You can browse through the main topics of the manual using the navigation bar on the left side of this page or the search function.
+Content: 
 
 * [Key features](./sd_connect.md)
   
@@ -35,6 +35,8 @@ You can browse through the main topics of the manual using the navigation bar on
 * [Command Line Interface: data encryption for data sharing](./sd_connect.md#command-line-interface-encryption-for-data-sharing) (Advanced)
  
 * [Troubleshooting](./sd_connect.md#troubleshooting)
+
+You can browse through the main topics of the manual using the navigation bar on the left side of this page or the search function.
 
 
 
