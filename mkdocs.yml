@@ -315,10 +315,10 @@ nav:
 #          - Federated EGA: data/sensitive-data/federatedega.md
 #          - SD Apply: data/sensitive-data/sd-apply.md
 #          - Containers: data/sensitive-data/creating_containers.md
-      - Register data: 
-          - Accessing register data: data/sensitive-data/sd-access.md
-          - For data controllers: data/sensitive-data/sd-access.md
-          - SD Desktop for secondary use: data/sensitive-data/sd-desktop-audited.md
+        - Register data:
+           - Accessing register data: data/sensitive-data/sd-access.md
+           - For data controllers: data/sensitive-data/sd-access.md
+           - SD Desktop for secondary use: data/sensitive-data/sd-desktop-audited.md
 
      - Kaivos database service:
         - data/kaivos/overview.md
