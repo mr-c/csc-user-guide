@@ -1,8 +1,8 @@
 # Sensitive Data (SD) Services for research: user guide
 
-This manual, in CSC Docs, introduces CSC's Sensitive Data (SD) services. Below is an overview of the contents organized into distinct sections for 1)
-processing sensitive research data (SD Connect and SD Desktop, standard service) or 2) register data (SD Desktop for secondary use, limited version). If you access SD services for the first time please refer to the introduction fo rmore information. 
-To navigate the user guide, click on the topics on the left-hand side of the page in the navigation bar, or use the search functionality. Next, browse the  section using the navigation bar on the right side of each page.
+This manual, in CSC Docs, introduces CSC's Sensitive Data (SD) services. Below is an overview of the contents organized into distinct sections for **1)
+processing sensitive research data** (SD Connect and SD Desktop, standard service) or **2) register data** (SD Desktop for secondary use, limited version). If you access SD services for the first time please refer to the introduction fo rmore information. 
+To navigate the user guide, click on the topics on the right-hand side of the page in the navigation bar, or use the search functionality. 
 
 
 !!! Note
