@@ -19,9 +19,9 @@ Sensitive Data services for research consist of five components:
 
 This manual is organized into two sections for:
 
-* sensitive reaserch data processing 
+* **sensitive research data processing** 
 
-* register based research (in compliance with the Finnish Act on the Secondary Use of Health and Social data and the Findata Authority's Regulation). 
+* **register based research** (in compliance with the Finnish Act on the Secondary Use of Health and Social data and the Findata Authority's Regulation). 
 
 You can find an overview of each service's key features and limitations, step-by-step instructions and video tutorials (specific sections are marked as *advanced* if technical expertise is required), and quick solutions in the troubleshooting table. In addition, guidance for accessing the services and permission management is provided based on the data type and the legal bases for data processing. 
 
