@@ -316,8 +316,8 @@ nav:
 #          - SD Apply: data/sensitive-data/sd-apply.md
 #          - Containers: data/sensitive-data/creating_containers.md
         - Register data:
-           - Accessing register data: data/sensitive-data/sd-access.md
-           - For data controllers: data/sensitive-data/sd-access.md
+           - Accessing register data: data/sensitive-data/access_register_data.md
+           - For data controllers: data/sensitive-data/single-register-submission.md
            - SD Desktop for secondary use: data/sensitive-data/sd-desktop-audited.md
 
      - Kaivos database service:
