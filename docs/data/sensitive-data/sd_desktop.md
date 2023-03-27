@@ -9,7 +9,6 @@ Sensitive Data (SD) Desktop allows you to analyze sensitive research data from y
 
 Contents:
 
-
 * [Key features](./sd_desktop.md)
   
 * [Authentication](./sd_desktop.md#authentication) 
