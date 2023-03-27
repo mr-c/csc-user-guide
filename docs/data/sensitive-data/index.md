@@ -9,7 +9,7 @@ To navigate the user guide, click on the topics on the left-hand side of the pag
     **Do you have any questions? Would you like to discuss a specific project?** Don't hesitate to contact us at servicedesk@csc.fi (subject: Sensitive Data) or join the [CSC Research User Support Coffee - Every Wednesday at 14:00](https://ssl.eventilla.com/usersupportcoffee). Our team is here to help.
     
     
- ## . Sensitive research data  
+ ## 1.Sensitive research data  
 
 
 ### [Introduction](./intro.md)
@@ -87,8 +87,7 @@ To navigate the user guide, click on the topics on the left-hand side of the pag
   * [Troubleshooting](./sd_desktop.md#troubleshooting)
 
 
-
-2. ## Register data unde the Act on Seconday Use
+## 2. Register data unde the Act on Seconday Use
 
 
   
