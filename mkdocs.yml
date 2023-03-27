@@ -306,15 +306,17 @@ nav:
 # data/Allas/using_allas/directory_object_error.md is not linked in this structure
      - Sensitive data:
         - data/sensitive-data/index.md
-        - Introduction: data/sensitive-data/intro.md
-        - Accessing SD Services: data/sensitive-data/sd-access.md
-        - Store with SD Connect: data/sensitive-data/sd_connect.md
-        - Analyse with SD Desktop: data/sensitive-data/sd_desktop.md
-        - SD Desktop for secondary use: data/sensitive-data/sd-desktop-audited.md
-#       - SD Apply for secondary use: data/sensitive-data/single-register-submission.md
-#       - Federated EGA: data/sensitive-data/federatedega.md
-#       - SD Apply: data/sensitive-data/sd-apply.md
-#       - Containers: data/sensitive-data/creating_containers.md
+        - Sensitive reaserch data:
+           - Introduction: data/sensitive-data/intro.md
+           - Accessing SD Services: data/sensitive-data/sd-access.md
+           - Store with SD Connect: data/sensitive-data/sd_connect.md
+           - Analyse with SD Desktop: data/sensitive-data/sd_desktop.md
+#          - SD Apply for secondary use: data/sensitive-data/single-register-submission.md
+#          - Federated EGA: data/sensitive-data/federatedega.md
+#          - SD Apply: data/sensitive-data/sd-apply.md
+#          - Containers: data/sensitive-data/creating_containers.md
+      - Register data: 
+          - SD Desktop for secondary use: data/sensitive-data/sd-desktop-audited.md
 
      - Kaivos database service:
         - data/kaivos/overview.md
