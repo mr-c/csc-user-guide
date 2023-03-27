@@ -2,16 +2,29 @@
 # Sensitive Data Desktop for secondary use of health and social data 
 
 Sensitive Data (SD) Desktop is a registered environment for secondary use of health and social data (register data). Access to the service requires a permit from the Findata authority. SD Desktop is a web-user interface that allows you to manage (start, use, delete) a virtual computer (here called desktop, technically defined as a virtual machine) from your web browser. With the virtual desktop, you can access the authorised datasets. No previous knowledge of cloud computing or programming expertise is required to use the service.
-In the following user guide, you can learn how to:
 
-* apply for service access;
-* set up your virtual desktop;
-* analyze data authorised by Findata;
-* request export of non-sensitive results from the secure desktop.
+Contents:
 
-!!! Note 
-    We apologise for any confusion caused by the previous name of the service. You can apply to use SD Desktop by sending an application to Findata. This is a restricted version of the service compared to standard SD Desktop.
+  * [Key features](./sd_desktop.md)
+  
+  * [Authentication](./sd_desktop.md#authentication) 
 
+  * [Creating your virtual desktop](./sd_desktop.md#creating-your-virtual-desktop) (Default analysis)
+
+  * [Working with your desktop](./sd_desktop.md#working-with-your-virtual-desktop)(Default analysis)
+  
+  * [Accessing encrypted sensitive data within SD Desktop](./sd_desktop.md#accessing-encrypted-sensitive-data-within-sd-desktop) (Default analysis)
+
+  * [Default programs available on SD Desktop](./sd_desktop.md#default-programs-available-on-sd-desktop) (Default analysis)
+  
+  * [Software customization](./sd_desktop.md#software-customisation) (Advanced)
+
+  * [Data export](./sd_desktop.md#data-export-from-sd-desktop)
+
+  * [Managing volumes and desktops](./sd_desktop.md#managing-volumes-and-virtual-desktops)
+  
+  * [Troubleshooting](./sd_desktop.md#troubleshooting)
+  
     
 ## Key features
 
