@@ -16,7 +16,17 @@ Sensitive Data services for research consist of five components:
 
 * Sensitive Data Apply (*pilot phase*): promotes data reuse allowing data owners to manage access to published datasets via a simple user interface.
 
-In this manual, you can find an overview of each service's key features and limitations, step-by-step instructions and video tutorials (specific sections are marked as *advanced* if technical expertise is required), and quick solutions in the troubleshooting table. In addition, guidance for accessing the services and permission management is provided based on the data type and the legal bases for data processing. 
+
+In this manual is organized into two sections for:
+* sensitive reaserch data processing 
+* register based research (in compliance with the Finnish Act on the Secondary Use of Health and Social data and the Findata Authority's Regulation). 
+
+You can find an overview of each service's key features and limitations, step-by-step instructions and video tutorials (specific sections are marked as *advanced* if technical expertise is required), and quick solutions in the troubleshooting table. In addition, guidance for accessing the services and permission management is provided based on the data type and the legal bases for data processing. 
+
+!!! Note
+    Sensitive data is only accessible with appropriate authorization, rights, or permission and based on the legal bases for data processing. With SD services, access is always managed by the data controller via specific service components in compliance with the GDPR and national regulations. The following paragraph summarises of the main documentation that should be considered and how this is taken into consideration when createing a CSC account and a CSC project using hte my.csc.fi portal. 
+    
+
 
 ## Compliance with data protection regulations 
 
