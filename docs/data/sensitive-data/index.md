@@ -34,7 +34,7 @@ Overview of SD services, with a quick introduction to compliance with data prote
  
 
 
-## 2. Register based research
+## Register based research
 
 * **Accessing register data via SD services**
 
