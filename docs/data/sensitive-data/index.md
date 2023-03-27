@@ -16,7 +16,7 @@ To navigate the user guide, click on the topics on the left-hand side of the pag
  
 ## [Introduction](./intro.md)
 
-Overview of SD services, with a quick introduction to compliance with data protection regulations and contacts to academic organizations' legal support services. Please check this section if you are accessing the services for the first time.
+Overview of SD services and access management, with a quick introduction to compliance with data protection regulations and contacts to academic organizations' legal support services. Please check this section if you are accessing the services for the first time.
   
  
 ## Sensitive research data  
