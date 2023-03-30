@@ -25,23 +25,18 @@ To begin the submission process, please fill in the [basic information form](./f
     - Please use the same email thread throughout the whole submission process.
     
 ## Step 2: Legal agreements 
-Each user must provide a series of legal agreements to confirm that they have the authority and permission to deposit data in FEGA. Download the necessary documentation below and share the agreements concerning the data controller with the legal service of your home organisation. Please note that your organisation may already have some required agreements in place with CSC. We will provide support if additional agreements are needed. Send the finalised documents via email to servicedesk@csc.fi by replying to the previous email of the CSC helpdesk. 
+
+The data deposition to FEGA requires a series of legal agreements. The necessary documentation is introduced below. The agreements concerning the data controller need to be discussed with the legal service of your home organisation. Please note that your organisation may already have some required agreements in place with CSC. We will provide support if additional agreements are needed. Please confirm that all the necessary agreements are in place before starting the submission by replying to the previous email you received from the CSC helpdesk (servicedesk@csc.fi).
 
 !!! note
     The required legal documents state the roles of a data processor and a data controller, which are defined in the General Data Protection Regulation (GDPR). CSC acts always as a data processor. In most research projects, the data controller is an academic organisation or other legal entity. The ownership of the data does not change by using this service.
 
-Here’s a list of the required documents:
-
-- **[Data Processing Agreement](https://research.csc.fi/data-processing-agreement) (DPA)**. A data processing agreement (DPA) is a contract between the data controller and the data processor. It regulates the particularities of data processing – such as its scope and purpose – as well as the rights and duties between the controller and the processor. 
-
-- **[CSC General terms of use](https://research.csc.fi/general-terms-of-use)**.
-
-- **[Description of the data processing activities](./data-processing-form.docx)**.
+The Data Controller must have a **service agreement** specific to FEGA service with CSC before the data can be transferred. The service agreement includes the **Data Processing Agreement (DPA)**, which regulates the particularities of data processing – such as its scope and purpose – as well as the rights and duties between the controller and the processor. [CSC’s general DPA](https://research.csc.fi/data-processing-agreement) is available on the CSC website. Also, **[CSC General terms of use](https://research.csc.fi/general-terms-of-use)** and **[Description of the data processing activities](./data-processing-form.docx)** are included in the service agreement.
 
 - **Data Protection Impact Assessment (DPIA)**. In case you need to draft a DPIA, you can find the technical and organisational security measures for the protection of sensitive data in CSC Sensitive Data Services available for download [here](./technical-organisational-sec-measures.pdf).
-<br/><br/>
 
-- **Data Access Agreement (DAA)**. In addition to the legal documents listed above, you should provide a copy of the DAA. The DAA is a contract between the Data Access Committee ([DAC](https://ega-archive.org/submission/data_access_committee)) and an applicant. The DAA includes all the policies regulating data re-use (e.g. data use, publication, download, or access) and it will be linked to each submitted dataset. It might also include a data transfer agreement (needed when researcher from non-EU/non-EEA are accessing the data via SD Desktop). For more info and examples, please check [DAC and policy documentation](https://ega-archive.org/submission/dac/documentation) and [Data Use Conditions](https://ega-archive.org/data-use-conditions) on EGA webpage. 
+In addition to the legal agreements between the Data Controller and Data Processor, you need a **Data Access Agreement (DAA)**. The DAA is a contract between the Data Access Committee ([DAC](https://ega-archive.org/submission/data_access_committee)) and an applicant applying access to the data. With the DAA, you can define restrictions for the data reuse. The document includes all the policies regulating data re-use (e.g. data use, publication, download, or access) and it will be linked to each submitted dataset. It might also include a data transfer agreement (needed when researcher from non-EU/non-EEA are accessing the data via SD Desktop). For more information, contact your home organisation.
+
 - **Names and contact information of the Data Access Committee**.
 
 
