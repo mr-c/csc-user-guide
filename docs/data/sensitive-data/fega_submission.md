@@ -35,9 +35,6 @@ The Data Controller must have a **service agreement** specific to FEGA service w
 
 In addition to the legal agreements between the Data Controller and Data Processor, you need a **Data Access Agreement (DAA)**. The DAA is a contract between the Data Access Committee ([DAC](https://ega-archive.org/submission/data_access_committee)) and an applicant applying access to the data. With the DAA, you can define conditions and restrictions for the data reuse. The document includes all the policies regulating data reuse (e.g. data use, publication, download, or access) and it will be linked to each submitted dataset. It might also include a data transfer agreement (needed when researcher from non-EU/non-EEA are accessing the data via SD Desktop). For more information, contact your home organisation.
 
-- **Names and contact information of the Data Access Committee**.
-
-
 ## Step 3: Credentials
 
 <iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/uraDjCssBP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
