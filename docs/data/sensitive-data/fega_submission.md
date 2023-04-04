@@ -71,13 +71,13 @@ Next, you can upload the data to Finnish FEGA. Each file uploaded to Finnish FEG
     
 You can carry out the encryption and upload steps using:
 
-- **Fi-FEGA upload application**. The Fi-FEGA upload application (graphical user interface) can be used to encrypt and upload files or folders automatically to Finnish FEGA.
+- **Option 1: Fi-FEGA upload application**. The Fi-FEGA upload application (graphical user interface) can be used to encrypt and upload files or folders automatically to Finnish FEGA.
 
 or
 
-- **Command-line interface**. Data encryption with crypt4gh CLI and data upload with sftp CLI. If you prefer to use the command-line interface, you can find information on the encryption and upload step below. 
+- **Option 2: Command-line interface**. Data encryption with crypt4gh CLI and data upload with sftp CLI. If you prefer to use the command-line interface, you can find information on the encryption and upload step below. 
 
-### Fi-FEGA upload application
+### Option 1: Fi-FEGA upload application
 
 1. You can download the Fi-FEGA upload application specific to your operating system from the [GitHub repository](https://github.com/CSCfi/sda-uploader): Linux, Mac or Windows (release v0.6.0). After downloading and unzipping the file, you can find the application in your download folder. When you open the application, you might encounter an error message. In this case, click on *More info* and verify that the publisher is CSC-IT Center for Science (or in Finnish: CSC-Tieteen tietotekniikan keskus Oy) and click on *Run anyway*. 
 
@@ -97,7 +97,7 @@ or
 
 [![Fi-FEGA upload application](images/fega/fega_upload.png)](images/fega/fega_upload.png)
 
-### Command line interface
+### Option 2: Command line interface
 **Data encryption with crypt4gh CLI**:
 
 1.	Python 3.6+ is required to use the Crypt4GH encryption utility. If you need help with installing Python, please follow [these instructions](https://www.python.org/downloads/release/python-3810/).
