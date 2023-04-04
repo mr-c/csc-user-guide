@@ -143,6 +143,7 @@ To register DAC and Policy for your dataset, contact servicedesk@csc.fi. For reg
 4. data application link for each dataset (provided by CSC helpdesk).
 
 ### Dataset application link
+
 After uploading the data to Finnish FEGA, you will receive a dataset application link for each dataset via email from the CSC helpdesk.
 
 !!! note
@@ -150,9 +151,11 @@ After uploading the data to Finnish FEGA, you will receive a dataset application
 
 ## Step 7: Metadata submission
 
-<iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/Xh3LpYPD9oo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Next, you can describe all the information related to your study, i.e. metadata, using the [Finnish FEGA submitter portal](https://submission.finland.ega-archive.org/) or programmatically. The public metadata will be published on the EGA website to facilitate data discovery and re-use.
+
+You can get an introduction to the submitter portal from the video below or by taking the tour available in the portal by clicking the yellow book icon in the top right corner while you are logged in.
+
+<iframe width="280" height="155" srcdoc="https://www.youtube-nocookie.com/embed/o81GDFwXiGE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Log in to the submitter portal using the EGA credentials (username: usually your email address, and password).
 
@@ -160,27 +163,15 @@ Using the submitter portal, you can register the following metadata objects:
 
 - **Study**. Information about the sequencing study.
 
-[![Study](images/fega/submitter_study.png)](images/fega/submitter_study.png)
-
 - **Samples**. Information about the sequencing samples.
-
-[![Samples](images/fega/submitter_samples.png)](images/fega/submitter_samples.png)
 
 - **Experiments**. Information about the sequencing methods, protocols, and machines.
 
-[![Experiments](images/fega/submitter_experiments.png)](images/fega/submitter_experiments.png)
-
-- **Runs**. Samples, experiments, and files are linked through runs. Appropriate objects for FASTQ and BAM/CRAM submissions.
-
-[![Runs](images/fega/submitter_runs.png)](images/fega/submitter_runs.png)
+- **Runs**. Samples, experiments, and files are linked through runs. Appropriate objects for FASTQ and BAM/CRAM submissions. You can also do a batch upload.
 
 - **Analysis**. References the analysis (BAM) files. Associated with samples and study. Analysis should be only be used for BAM/BAI pair, VCF and phenotype linkage to samples. The analysis is an EGA specific metadata object that links Samples, to Files.
 
-[![Analysis](images/fega/submitter_analysis.png)](images/fega/submitter_analysis.png)
-
 - **Dataset**. Contains the collection of runs/analysis data files to be subject to controlled access. Associated with Policy, which is created in the EGA DAC portal.
-
-[![Dataset](images/fega/submitter_dataset.png)](images/fega/submitter_dataset.png)
 
 After data release, each of these objects will be assigned with a permanent identifier or unique accession number.
 
