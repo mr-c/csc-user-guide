@@ -157,11 +157,11 @@ Using the submitter portal, you can register the following metadata objects:
 
 - **Study**. Information about the sequencing study.
 
-- **Samples**. Information about the sequencing samples.
+- **Samples**. Information about the sequencing samples. You can also do a batch upload for samples.
 
 - **Experiments**. Information about the sequencing methods, protocols, and machines.
 
-- **Runs**. Samples, experiments, and files are linked through runs. Appropriate objects for FASTQ and BAM/CRAM submissions. You can also do a batch upload.
+- **Runs**. Samples, experiments, and files are linked through runs. Appropriate objects for FASTQ and BAM/CRAM submissions. You can also do a batch upload for runs.
 
 - **Analysis**. References the analysis (BAM) files. Associated with samples and study. Analysis should be only be used for BAM/BAI pair, VCF and phenotype linkage to samples. The analysis is an EGA specific metadata object that links Samples, to Files.
 
