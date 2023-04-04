@@ -3,14 +3,10 @@
 !!! Note 
     FEGA is still in the pilot phase, so no submissions can be made to the service. The expected launch of the service is in the beginning of year 2023. We will process submissions in the order we have received the support requests. In addition to the legal agreements listed on this page, there needs to be a service agreement between CSC and the data controller specific for FEGA service. Make sure before starting submitting any data that all these legal agreements are in place.
 
-<iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/eg9YRFgT_5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ## Submission process overview 
 [![FEGA submission process overview](images/fega/fega_submission_overview.png)](images/fega/fega_submission_overview.png)
 
 ## Step 1: Basic information of the submission
-
-<iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/_w3wUNSg0mQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Submission to the Finnish FEGA service starts with contacting the Finnish FEGA helpdesk and providing the basic information of the submission.
 
@@ -36,8 +32,6 @@ The Data Controller must have a **service agreement** specific to FEGA service w
 In addition to the legal agreements between the Data Controller and Data Processor, you need a **Data Access Agreement (DAA)**. The DAA is a contract between the Data Access Committee ([DAC](https://ega-archive.org/submission/data_access_committee)) and an applicant applying access to the data. With the DAA, you can define conditions and restrictions for the data reuse. The document includes all the policies regulating data reuse (e.g. data use, publication, download, or access) and it will be linked to each submitted dataset. It might also include a data transfer agreement (needed when researcher from non-EU/non-EEA are accessing the data via SD Desktop). For more information, contact your home organisation.
 
 ## Step 3: Credentials
-
-<iframe width="280" height="155" srcdoc="https://www.youtube.com/embed/uraDjCssBP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Once the legal agreements between the data controller and CSC are finalised, you can register on the [EGA webpage](https://web4.ega-archive.org/register/) to create central EGA credentials. You will receive an activation link via email after your registration has been approved by central EGA. After activating your credentials, contact servicedesk@csc.fi in order to be added as a Finnish FEGA submitter.
 
