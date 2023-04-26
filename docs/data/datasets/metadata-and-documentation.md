@@ -123,7 +123,7 @@ All digital information is structured data. A **file format** is a standard way 
 - Think about granularity (file size) and metadata
 - Decide on formats, units, codes etc. and be consistent
     - Use common file formats, preferably open
-    - You can find a list of recommended file formats on the website about digital preservation. If you use other formats you will need to think about adding the technical documentation of the file format.
+    - You can find a list of recommended file formats on the website about [digital preservation](https://digitalpreservation.fi/). If you use other formats you will need to think about adding the technical documentation of the file format.
 -  Write a code book, document. Read me files are often necessary.
 -  Think about intelligibility
 -  Be careful when rearranging, reformatting, sorting or copy-pasting data
