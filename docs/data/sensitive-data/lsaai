@@ -1,0 +1,31 @@
+# Using Life Science Login to access SD Desktop 
+
+The Life Science Login enables researchers to use their home organisation credentials or community or other identities (e.g. Google, Linkedin, LS ID) to sign in
+and access data and services they need. It also allows service providers (both in academia and industry) to control and manage access rights of their users and
+create different access levels for research groups or international projects. For more information see Life Science [Login webpage](https://lifescience-ri.eu/ls-login.html)
+Is is possible to use LS Login to access the SD Desktop and SD Apply services, but only if the Life Science account is linked to your CSC account. Please follow the next steps: 
+
+## Step 1: register a Life Science account using this link.  
+Detailed [intructions](https://lifescience-ri.eu/ls-login/version-2023/user/how-to-get-ls-id.html)
+
+## Step 1: register a Life Science account using this link. Remember username and password.
+Detailed [intructions](https://lifescience-ri.eu/ls-login/version-2023/user/how-to-get-ls-id.html)
+
+## Step2: login to the Life Science account with LS credentials (https://lifescience-ri.eu/ls-login/version-2023/user/how-to-log-in-to-the-service-using-your-credentials.html)
+If you do not remeber your LS credentials, login to to your user profile page with your organization credential [if they have been linked]
+Open this [link]( https://ds.aai.lifescience-ri.eu/ds/?entityID=https%3A%2F%2Fproxy.aai.lifescience-ri.eu%2Fmetadata%2Fbackend.xml&return=https%3A%2F%2Fproxy.aai.lifescience-ri.eu%2Fsaml2sp%2Fdisco)
+Clik on **Add another institution**. You will be redirected to a new page in which you can login with yout institution credetials.
+Next, you will be redirated to a new page. Scroll down and click on **Accept**.
+
+Here you have logged in to your LS User profile. On the left navigation bar, click on Profile and you can visualise your username: LS Username
+Under linked account,
+
+
+
+
+
+
+
+
+
+
